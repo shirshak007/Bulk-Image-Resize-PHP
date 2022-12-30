@@ -1,3 +1,0 @@
-- cd Bulk-Image-Resize-PHP
-- chmod -R 777 .
-- php resize.php
