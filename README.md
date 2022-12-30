@@ -15,6 +15,6 @@ Then follow the below steps :
 - chmod -R 777 .
 - php resize.php
 
-Check the <b>resized</b> folder.
+Check the <b>resized</b> folder which will be created automatically. 
 
 You are done !!
