@@ -1,0 +1,3 @@
+- cd PHPImageResize
+- chmod -R 777 .
+- php resize.php
